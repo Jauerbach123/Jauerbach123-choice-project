@@ -67,8 +67,9 @@ h1 {
   width: 600px;
   border: 5px solid;
   padding: 50px;
-  margin: auto;
-  position:right;}
+  text-align: center;
+position:  inherit;;}
+
 
 
 body {
@@ -94,6 +95,5 @@ body {
   display: table;
   height:50px;
   position:absolute
-  
+
 }
-.photo{background-color: black}
